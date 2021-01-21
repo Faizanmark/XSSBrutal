@@ -1,5 +1,5 @@
 #XSSBrutal
-A Tool For Termux Users To Apply And Test 100 Cross Site Scripting Payload On A Url
+A Tool For Linux Users To Apply And Test 100 Cross Site Scripting Payload On A Url
 
 
 Usage :- 
@@ -12,7 +12,7 @@ cd XSSBrutal
 python brute.py
 
 Requirements :-
-If You Don't Have Required Modules Of Python It Will Ask You To Install Rhem
+If You Don't Have Required Modules Of Python It Will Ask You To Install Them
 
 
 Use This For Bug Hunting 
@@ -20,5 +20,3 @@ Not For Illegal Activities
 
 
 #Faizan Mark
-
---------------------__M  r  .  R  c__--------‐------------
